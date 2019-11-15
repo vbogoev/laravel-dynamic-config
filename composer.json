@@ -1,0 +1,12 @@
+{
+    "name": "vbogoev/dynamic-config",
+    "description": "Dynamic Configuration implementation for Laravel framework",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Vasil Bogoev",
+            "email": "vbogoevdev@gmail.com"
+        }
+    ],
+    "require": {}
+}
