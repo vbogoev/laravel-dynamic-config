@@ -1,6 +1,6 @@
 {
     "name": "vbogoev/dynamic-config",
-    "description": "Dynamic Configuration implementation for Laravel framework",
+    "description": "Dynamic Config implementation for Laravel framework",
     "license": "MIT",
     "authors": [
         {
